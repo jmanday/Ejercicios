@@ -1,1 +1,1 @@
-Este repositorio es para los ejercicios de la asignatura.
+Este repositorio es para el ejercicio 6.
