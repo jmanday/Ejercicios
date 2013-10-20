@@ -1,1 +1,1 @@
-proyecto para el ejercicio 6
+proyecto de prueba para el ejercicio 6
