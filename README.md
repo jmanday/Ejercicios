@@ -1,2 +1,2 @@
 
-Este repositorio es para el ejercicio 6
+Este repositorio es para mostrar los resultados de los ejercicios propuestos en la asignatura.
