@@ -1,2 +1,2 @@
-
-Este repositorio es para mostrar los resultados de los ejercicios propuestos en la asignatura.
+En este repositorio ire colgando los objetivos expuestos que he cumplido en cada clase, así como la solución a los ejercicios
+propuestos.
