@@ -19,3 +19,9 @@ Otros objetivos:
 * **[x]** Manejar de forma básica la línea de órdenes de Linux.
 * **[x]** Aprender a instalar software libre en Linux.
 * **[x]** Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
+
+
+##Clase del 4 de octubre##
+* **[x]** Consolidar el uso de técnicas de aislamiento y control de tareas en Linux que se usarán más adelante en la creación de contenedores.
+* **[x]** Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
+* **[x]** Comenzar a usar git y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones.
