@@ -28,3 +28,15 @@ Otros objetivos:
 
 Otros objetivos:
 * **[x]** Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
+
+
+##Clase del 7 de octubre##
+* **[]** Consolidar el uso de técnicas de aislamiento y control de tareas en Linux que se usarán más adelante en la creación de contenedores.
+* **[]** Comprender los niveles de virtualización y sus denominaciones genéricas.
+* **[]** Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
+* **[]** Darse de alta en uno de ellos y comprender los mecanismos usados para despliegue de aplicaciones.
+* 
+Otros objetivos:
+* **[]** Contestar a la encuesta sobre la metodología de clase.
+* **[]** Usar ficheros en el repositorio para los ejercicios, en vez de el wiki. El wiki no permite comentar, sin embargo sobre los *commits* al repo sí se puede. Se seguirá enlazando en la bitácora de clase, en cualquier caso.
+* **[]** Consolidar el uso de la línea de órdenes para administración y desarrollo de software.
