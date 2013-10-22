@@ -37,6 +37,6 @@ Otros objetivos:
 * **[ ]** Darse de alta en uno de ellos y comprender los mecanismos usados para despliegue de aplicaciones.
 * 
 Otros objetivos:
-* **[ ]** Contestar a la encuesta sobre la metodología de clase.
+* **[x]** Contestar a la encuesta sobre la metodología de clase.
 * **[ ]** Usar ficheros en el repositorio para los ejercicios, en vez de el wiki. El wiki no permite comentar, sin embargo sobre los *commits* al repo sí se puede. Se seguirá enlazando en la bitácora de clase, en cualquier caso.
 * **[ ]** Consolidar el uso de la línea de órdenes para administración y desarrollo de software.
