@@ -43,3 +43,8 @@ Otros objetivos:
 
 
 ##Clase del 11 de octubre##
+* **[ ]** Entender los mecanismos de creación y despliegue de aplicaciones en un PaaS.
+
+Otros objetivos:
+* **[ ]** Asimilar buenas prácticas en el desarrollo y puesta en producción de lenguajes de scripting.
+* **[ ]** Comprender el método de entrega de las prácticas de la asignatura.
