@@ -75,3 +75,15 @@ Otros objetivos:
 * **[x]** Usar herramientas de administración y monitorización de red en línea de órdenes.
 * **[x]** Contestar a la encuesta sobre la asignatura.
 * **[x]** Ver las prácticas hechas por los compañeros y si os gustan dadles una estrella o fork en GitHub o tuitearlas con el hashtag #ivgii
+
+
+##Clase del 25 de octubre##
+* **[ ]** Aprender a instalar una máquina virtual sin necesidad de usar una imagen.
+* **[ ]** Usar esos conocimientos en la configuración de una jaula chroot.
+
+Otros objetivos:
+* **[ ]** Entender en qué casos una virtualización "débil" puede ser más conveniente que una "fuerte".
+* **[ ]** Comprobar las notas de la práctica anterior.
+* **[ ]** Recordar como se registran los objetivos en clase.
+* **[ ]** Contestar a la invitación para el hangout del martes que viene.
+* **[ ]** Apuntarse a la Comunidad de Google Plus de la asignatura para el hangout, principalmente.
