@@ -78,8 +78,8 @@ Otros objetivos:
 
 
 ##Clase del 25 de octubre##
-* **[ ]** Aprender a instalar una máquina virtual sin necesidad de usar una imagen.
-* **[ ]** Usar esos conocimientos en la configuración de una jaula chroot.
+* **[x]** Aprender a instalar una máquina virtual sin necesidad de usar una imagen.
+* **[x]** Usar esos conocimientos en la configuración de una jaula chroot.
 
 Otros objetivos:
 * **[ ]** Entender en qué casos una virtualización "débil" puede ser más conveniente que una "fuerte".
