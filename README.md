@@ -82,8 +82,21 @@ Otros objetivos:
 * **[x]** Usar esos conocimientos en la configuración de una jaula chroot.
 
 Otros objetivos:
-* **[ ]** Entender en qué casos una virtualización "débil" puede ser más conveniente que una "fuerte".
-* **[ ]** Comprobar las notas de la práctica anterior.
-* **[ ]** Recordar como se registran los objetivos en clase.
-* **[ ]** Contestar a la invitación para el hangout del martes que viene.
+* **[x]** Entender en qué casos una virtualización "débil" puede ser más conveniente que una "fuerte".
+* **[x]** Comprobar las notas de la práctica anterior.
+* **[x]** Recordar como se registran los objetivos en clase.
+* **[x]** Contestar a la invitación para el hangout del martes que viene.
 * **[ ]** Apuntarse a la Comunidad de Google Plus de la asignatura para el hangout, principalmente.
+
+
+##Clase del 28 de octubre##
+* **[ ]** Usar herramientas específicas para configurar una jaula chroot y conocer herramientas similares para otros sistemas operativos.
+* **[ ]** Aprender a enjaular usuarios
+
+Otros objetivos:
+* **[ ]** Aplicar conocimientos de administración de un sistema Linux: usuarios, permisos.
+* **[ ]** Entender las consideraciones de seguridad en el uso de este tipo de técnicas.
+* **[ ]** Comprender que existe vida en los servidores web fuera del Apache.
+* **[ ]** Comprobar la página de chroot en la wikipedia y mejorarla o modificarla como iniciación a crear contenido de la Wikipedia relacionado con la asignatura.
+* **[ ]** Mirar este curso de reciclaje y mantenimiento de ordenadores, interesante para informáticos y para los que no lo son.
+
