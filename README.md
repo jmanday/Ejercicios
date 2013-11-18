@@ -98,5 +98,5 @@ Otros objetivos:
 * **[x]** Entender las consideraciones de seguridad en el uso de este tipo de técnicas.
 * **[x]** Comprender que existe vida en los servidores web fuera del Apache.
 * **[ ]** Comprobar la página de chroot en la wikipedia y mejorarla o modificarla como iniciación a crear contenido de la Wikipedia relacionado con la asignatura.
-* **[ ]** Mirar este curso de reciclaje y mantenimiento de ordenadores, interesante para informáticos y para los que no lo son.
+* **[x]** Mirar este curso de reciclaje y mantenimiento de ordenadores, interesante para informáticos y para los que no lo son.
 
