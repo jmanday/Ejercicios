@@ -100,3 +100,9 @@ Otros objetivos:
 * **[ ]** Comprobar la página de chroot en la wikipedia y mejorarla o modificarla como iniciación a crear contenido de la Wikipedia relacionado con la asignatura.
 * **[x]** Mirar este curso de reciclaje y mantenimiento de ordenadores, interesante para informáticos y para los que no lo son.
 
+
+##Clase del 8 de noviembre##
+* **[x]** Resolver dudas y obstáculos en la realización de la segunda práctica.
+
+Otros objetivos:
+* **[x]** Consolidar la mecánica de entrega de prácticas de la asignatura y su valoración.
