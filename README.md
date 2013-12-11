@@ -142,10 +142,3 @@ Otros objetivos:
 Otros objetivos:
 * **[x]** Crear estrategias para resolución de problemas de sistemas.
 
-
-###Clase del 25 de noviembre###
-* **[x]** Resolver problemas con juju.
-* **[x]** Configuración compleja de sistemas con él.
-
-Otros objetivos:
-* **[x]** Crear estrategias para resolución de problemas de sistemas.
