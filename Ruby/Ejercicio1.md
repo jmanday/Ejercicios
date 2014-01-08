@@ -1,12 +1,16 @@
 ### Ejercicio 1
 
-He instalado **lxc** en mi máquina desde el gestor de paquetes:
+He instalado **ruby** en mi máquina desde el gestor de paquetes:
 <pre>
-sudo apt-get install lxc
+sudo apt-get install ruby
 </pre>
 
-Ahora paso a comprobar si mi núcleo es capaz de soportar dicha tecnología:
+![imagen84](https://github.com/jmanday/Imagenes/blob/master/imagen84.png?raw=true)
 
-![imagen36](https://github.com/jmanday/Imagenes/blob/master/imagen36.png?raw=true)
+![imagen85](https://github.com/jmanday/Imagenes/blob/master/imagen85.png?raw=true)
 
-Se puede comprobar que la configuración esta correcta y todo los parámetros relacionados con los espacios de nombres y los cgroups esta habilitado.
+y comprobado la versión instalada:
+
+![imagen86](https://github.com/jmanday/Imagenes/blob/master/imagen86.png?raw=true)
+
+También he instalado los otros paquetes que convenian instalar.
