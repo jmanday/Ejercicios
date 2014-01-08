@@ -142,3 +142,14 @@ Otros objetivos:
 Otros objetivos:
 * **[x]** Crear estrategias para resolución de problemas de sistemas.
 
+
+###Clase del 2 de diciembre###
+* **[ ]** Terminar la familiarización con Ruby2.
+* **[ ]** Recordar conceptos de almacenamiento físico.
+* **[ ]** Entender el concepto de FUSE y usarlo en la prática.
+* **[ ]** Crear y manipular formatos de provisionamiento delgado.
+
+Otros objetivos:
+* **[ ]** Tener flexibilidad para saber cuando usar lenguajes nuevos y aprenderlos sobre la marcha.
+* **[ ]** Usar herramientas de la asignatura para tareas de utilidad en la administración de sistemas u otras asignaturas.
+
