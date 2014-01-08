@@ -106,3 +106,50 @@ Otros objetivos:
 
 Otros objetivos:
 * **[x]** Consolidar la mecánica de entrega de prácticas de la asignatura y su valoración.
+
+
+###Clase del 11 de noviembre###
+* **[x]** Entender el concepto de contenedores.
+* **[x]** Configurar el sistema para poder crear y usar contenedores.
+* **[x]** Crear y usar contenedores.
+
+Otros objetivos:
+* **[x]** Comprobar la aplicación de conocimientos anteriores tales como espacios de nombres, CGROUPS y puentes de red en una aplicación para virtualización.
+* **[x]** Retomar la costumbre de hacer git pull al principio de cada sesión.
+* **[x]** Retomar el marcado de objetivos usando el nuevo script para añadirlos.
+* **[x]** Hacer la encuesta que se ha difundido por correo electrónico.
+
+
+###Clase del 15 de noviembre###
+* **[x]** Entender los sistemas de orquestación de máquinas virtuales.
+* **[x]** Usarlos en la práctica para configurar máquinas virtuales con un fin determinado.
+
+Otros objetivos:
+* **[x]** Ver el papel de los *tápers* como base de experimentación y prácticas de muchos de los conceptos de virtualización.
+
+
+###Clase del 18 de noviembre##
+* **[x]** Comprobar el uso de tecnologías en la nube en la práctica.
+* **[x]** Conocer las habilidades que hacen falta para emprender usando estas tecnologías.
+* **[x]** Ver casos de uso de tecnologías PaaS y en qué caso tienen ventajas respecto a PaaS.
+* **[x]** Conocer la pila de soluciones en la nube de Google, desde IaaS hasta SaaS.
+
+
+###Clase del 22 de noviembre###
+* **[x]** Resolver problemas con juju.
+* **[x]** Configuración compleja de sistemas con él.
+
+Otros objetivos:
+* **[x]** Crear estrategias para resolución de problemas de sistemas.
+
+
+###Clase del 2 de diciembre###
+* **[ ]** Terminar la familiarización con Ruby2.
+* **[ ]** Recordar conceptos de almacenamiento físico.
+* **[ ]** Entender el concepto de FUSE y usarlo en la prática.
+* **[ ]** Crear y manipular formatos de provisionamiento delgado.
+
+Otros objetivos:
+* **[ ]** Tener flexibilidad para saber cuando usar lenguajes nuevos y aprenderlos sobre la marcha.
+* **[ ]** Usar herramientas de la asignatura para tareas de utilidad en la administración de sistemas u otras asignaturas.
+
