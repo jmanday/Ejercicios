@@ -10,8 +10,8 @@ productos_por_id = {
 
 
 productos_por_id.each()  do |names,| 
-	customer_info = "#{productos_por_id[names][:nombre]}"
-	customer_info += "--->"
-	customer_info += "#{productos_por_id[names][:precio]}"
-	puts customer_info
+	info = "#{productos_por_id[names][:nombre]}"
+	info += "--->"
+	info += "#{productos_por_id[names][:precio]}"
+	puts info
 end
