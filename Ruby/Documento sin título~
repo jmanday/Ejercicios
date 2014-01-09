@@ -1,0 +1,17 @@
+#!/usr/bin/ruby
+
+productos_por_id = {
+        11 => { :nombre => "Baar", :precio => 14.23 },
+        25 => { :nombre => "jueguetes", :precio => 4.34  },
+        13 => { :nombre => "androide", :precio => 56.00 },
+        42 => { :nombre => "creoque", :precio => 12.45 },
+        35 => { :nombre => "zapatos", :precio => 86.00 }
+}
+
+
+productos_por_id.each()  do |names,| 
+	customer_info = "#{productos_por_id[names][:nombre]}"
+	customer_info += "--->"
+	customer_info += "#{productos_por_id[names][:precio]}"
+	puts customer_info
+end
