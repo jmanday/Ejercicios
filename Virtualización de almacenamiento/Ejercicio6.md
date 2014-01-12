@@ -1,6 +1,6 @@
 ### Ejercicio 6
 
-Una vez instalado **ceph** seguimos los pasos del tutorial para realizar este ejercicio:
+Una vez instalado **ceph** seguimos los pasos del tutorial para realizar este ejercicio.
 
 Me creo los directorios donde se va a almacenar la información de **ceph**:
 
