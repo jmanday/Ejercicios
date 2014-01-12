@@ -22,7 +22,7 @@ Vemos en la máquina virtual el fichero al que accederemos desde la máquina anf
 ![imagen93](https://github.com/jmanday/Imagenes/blob/master/imagen93.png?raw=true) 
 
 
-En ambas máquinas se instaló **fuse** debido a las depencias existentes entre este y **sshfs**.
+En ambas máquinas se instaló **fuse** debido a las depencias existentes entre este y **sshfs**:
 
 Vemos la dirección ip de la máquina remota:
 
