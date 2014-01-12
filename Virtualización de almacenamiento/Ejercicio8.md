@@ -18,17 +18,17 @@ Lo siguiente es crearme la cuenta, para lo que debo realizar lo siguiente:
 
 	1. En el enlace que me proporciona esta orden es donde debo crear mi cuenta:
 
-		![imagen127](https://github.com/jmanday/Imagenes/blob/master/imagen127.png?raw=true)
+![imagen127](https://github.com/jmanday/Imagenes/blob/master/imagen127.png?raw=true)
 
 	
 	2. Una vez registrado, se nos descarga el archivo de suscripción el cual debemos de importar:
 
-		![imagen128](https://github.com/jmanday/Imagenes/blob/master/imagen128.png?raw=true)
+![imagen128](https://github.com/jmanday/Imagenes/blob/master/imagen128.png?raw=true)
 
 
 	3. Y luego lo borramos:
 
-		![imagen129](https://github.com/jmanday/Imagenes/blob/master/imagen129.png?raw=true)	
+![imagen129](https://github.com/jmanday/Imagenes/blob/master/imagen129.png?raw=true)	
 	
 
 Compruebo que la cuenta ha sido importada correctamente:
