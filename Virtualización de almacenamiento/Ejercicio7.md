@@ -13,3 +13,5 @@ Almaceno un objeto en el pool creado anteriormente:
 Para almacenar un directorio comprimo los ficheros de los que este esta compuesto y lo almaceno en el pool:
 
 ![imagen121](https://github.com/jmanday/Imagenes/blob/master/imagen121.png?raw=true)
+
+
