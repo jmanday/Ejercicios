@@ -22,3 +22,5 @@ Le doy formato a los dispositivos:
 Vemos el resutaldo:
 
 ![imagen109](https://github.com/jmanday/Imagenes/blob/master/imagen109.png?raw=true)
+
+
