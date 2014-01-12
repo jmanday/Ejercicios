@@ -46,3 +46,5 @@ Ahora me creo una cuenta de almacenamiento:
 La visualizo:
 
 ![imagen133](https://github.com/jmanday/Imagenes/blob/master/imagen133.png?raw=true)
+
+
