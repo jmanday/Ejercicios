@@ -1,0 +1,15 @@
+#!/usr/bin/ruby
+
+require 'net/http'
+
+def fecha(url)
+	informacion = Net::HTTP.get_response  url, '/'
+	puts informacion.class()
+
+end
+
+
+
+url = ARGV[0]
+
+fecha(url)

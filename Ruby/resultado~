@@ -1,0 +1,650 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+
+	<title>  Oficina de Software Libre de la Universidad de Granada</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+	<meta name="generator" content="WordPress 3.7.1" /> <!-- leave this for stats please -->
+
+	<link rel="stylesheet" href="http://osl.ugr.es/wp-content/themes/primepress/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://osl.ugr.es/wp-content/themes/primepress/custom.css" type="text/css" media="screen" />
+	<!--[if lte IE 7]>	<link rel="stylesheet" type="text/css" href="http://osl.ugr.es/wp-content/themes/primepress/css/ie7.css" /><![endif]-->
+	<!--[if lte IE 6]>	<link rel="stylesheet" type="text/css" href="http://osl.ugr.es/wp-content/themes/primepress/css/ie6.css" /><![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://osl.ugr.es/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://osl.ugr.es/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://osl.ugr.es/feed/atom/" />
+	<link rel="pingback" href="http://osl.ugr.es/xmlrpc.php" />
+
+	<style type='text/css' media='screen' >.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:32px;position:fixed; right:0; top:100px;background-color:#878787;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;border:2px solid #fff;border-right-width:0}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
+#follow.right ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
+#follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
+#follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -0px 0px;height:79px;width:20px;}
+#follow.right ul li a {display:block;}
+#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
+ul.row li {float:left;list-style-type:none;list-style:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:3px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 3px 3px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:0px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}
+.button_holder_bottom,.button_holder_left{margin-right:5px;display:inline}.button_holder_right{margin-left:5px;display:inline}.button_holder_show_interactive {display:inline;margin-right:5px;}.button_holder_bottom iframe,.button_holder_left iframe,.button_holder_right iframe,.button_holder_show_interactive iframe{vertical-align:top}.tall *[id*='___plusone']{position:relative;top:-12px}</style><style type='text/css' media='print' >.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:32px;position:fixed; right:0; top:100px;background-color:#878787;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;border:2px solid #fff;border-right-width:0}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
+#follow.right ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
+#follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
+#follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -0px 0px;height:79px;width:20px;}
+#follow.right ul li a {display:block;}
+#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
+ul.row li {float:left;list-style-type:none;list-style:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:3px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 3px 3px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:0px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}
+.button_holder_bottom,.button_holder_left{margin-right:5px;display:inline}.button_holder_right{margin-left:5px;display:inline}.button_holder_show_interactive {display:inline;margin-right:5px;}.button_holder_bottom iframe,.button_holder_left iframe,.button_holder_right iframe,.button_holder_show_interactive iframe{vertical-align:top}.tall *[id*='___plusone']{position:relative;top:-12px}</style><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://osl.ugr.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://osl.ugr.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.7.1" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42977340-1', 'ugr.es');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body class="custom">
+<div id="page" class="hfeed">
+
+	<div id="header">
+		<div id="branding">
+						<h1 class="homelink"><a href="http://osl.ugr.es" title="Oficina de Software Libre de la Universidad de Granada">Oficina de Software Libre de la Universidad de Granada</a></h1>
+			<p class="description">UGR::OSL::Blog</p>
+					</div>
+		
+		<div id="skip"><a title="Skip to content" href="#primary" accesskey="S">Skip to Content &darr;</a></div>
+		
+		<ul class="menu">
+				<li class="current_page_item"><a title="Oficina de Software Libre de la Universidad de Granada" href="http://osl.ugr.es">Home</a></li>
+	<li class="page_item page-item-647 page_item_has_children"><a href="http://osl.ugr.es/cursos-y-eventos/">Cursos, actividades y material</a></li>
+<li class="page_item page-item-593 page_item_has_children"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/">CUSL Granada</a></li>
+<li class="page_item page-item-1060"><a href="http://osl.ugr.es/documentos-libres-de-la-ugr/">Documentos libres de la UGR</a></li>
+<li class="page_item page-item-2 page_item_has_children"><a href="http://osl.ugr.es/about/">Sobre la OSL</a></li>
+<li class="page_item page-item-199 page_item_has_children"><a href="http://osl.ugr.es/software-libre-en-la-ugr/">Software Libre en la UGR</a></li>
+		</ul>
+	</div><!--#header-->
+<div id="container">
+	<div id="rotating">
+		<img src="/wp-includes/images/banner-osl.jpg" width="920" alt="Logo de la OSL" title="El sobrino de Agui y Lutxo" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>	
+	<div id="primary" class="looped">
+		
+				
+				
+		<div class="entry hentry" id="post-5572">
+			
+			<h2 class="entry-title"><a href="http://osl.ugr.es/2014/01/09/desarrollo-agil-con-scrum/" rel="bookmark" title="Permalink to Desarrollo ágil con Scrum">Desarrollo ágil con Scrum</a></h2>
+			
+			<div class="entry-byline">
+				<span class="entry-date"><abbr class="updated" title="2014-01-09T21:54:20+0000">ene 9th, 2014</abbr></span>
+				<address class="author vcard">by <a class="url fn" href="http://psicobyte.com">Pablo Hinojosa</a>. </address>
+				<a href="http://osl.ugr.es/2014/01/09/desarrollo-agil-con-scrum/#respond" class="comments-link"  title="Comentarios en Desarrollo ágil con Scrum">No comments yet</a>							</div>
+			
+			<div class="entry-content">
+				<p>El próximo jueves 23 de enero, a las 12:30, tendrá lugar un taller de metodología de desarrollo ágil con <a href="http://es.wikipedia.org/wiki/Scrum">Scrum</a> en el aula de usos múltiples  <a href="http://etsiit.ugr.es/">E.T.S. de Ingenierías Informática y de Telecomunicación</a> de la <a href="http://www.ugr.es/">Universidad de Granada</a>.</p>
+<p>Este taller será impartido por Boris Burgos y María Hinojosa, de la empresa de software <a href="http://codeko.com/">Codeko</a>, que hablarán desde la perspectiva de su experiencia práctica como desarrolladores.</p>
+<p>La asistencia al taller es libre y gratuita, pero es recomendable inscribirse en <a href="https://docs.google.com/spreadsheet/viewform?usp=drive_web&#038;formkey=dGNCTHRCdktQbm52Y3FNbEJpMWVfREE6MA#gid=0">este formulario</a> para facilitar la organización, porque las plazas están muy limitadas. </p>
+<div class='shareinpost'><ul class="socialwrap row"><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Desarrollo ágil con Scrum en Blogger'  href='http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F&amp;n=Desarrollo+%C3%A1gil+con+Scrum&amp;pli=1'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='blogger'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-75px 0px'   /> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Bookmark Desarrollo ágil con Scrum en Delicious'  href='http://delicious.com/post?url=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F&amp;title=Desarrollo+%C3%A1gil+con+Scrum'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='delicious'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-175px 0px'   /> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Desarrollo ágil con Scrum en DIgg'  href='http://digg.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F&amp;title=Desarrollo+%C3%A1gil+con+Scrum&amp;bodytext=El+pr%C3%B3ximo+jueves+23+de+enero%2C+a+las+12%3A30%2C+tendr%C3%A1+lugar+un+taller+de+metodolog%C3%ADa+de+desarrollo+%C3%A1gil+con+Scrum+en+el+aula+de+usos+m%C3%BAltiples++E.T.S.+de+Ingenier%C3%ADas+Inform%C3%A1tica+y+de+Telecomunicaci%C3%B3n+de+la+Universidad+de+Granada.%0D%0A%0D%0AEste+taller+ser%C3%A1+impartido+por+Boris+Burgos+y+Mar%C3%ADa+Hinojosa%2C+de+la+empresa+de+s'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='digg'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-225px 0px'   /> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Recomendar Desarrollo ágil con Scrum en Facebook'  href='http://www.facebook.com/sharer.php?u=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F&amp;t=Desarrollo+%C3%A1gil+con+Scrum'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='facebook'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-300px 0px'   /> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Desarrollo ágil con Scrum en G+'  href='https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F&amp;title=Desarrollo+%C3%A1gil+con+Scrum'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='gplus'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-625px 0px'   /> <span class="head"></span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Desarrollo ágil con Scrum en identica'  href='http://identi.ca/notice/new?status_textarea=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='identica'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-700px 0px'   /> <span class="head">Share on identica</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Desarrollo ágil con Scrum en Reddit'  href='http://www.reddit.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F&amp;title=Desarrollo+%C3%A1gil+con+Scrum'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='reddit'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px'   /> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Desarrollo ágil con Scrum en Tumblr.'  href='http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F&amp;t=Desarrollo+%C3%A1gil+con+Scrum'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='tumblr'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1600px 0px'   /> <span class="head">Tumblr it</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Tweet Desarrollo ágil con Scrum'  href="http://twitter.com/share?url=http%3A%2F%2Fosl.ugr.es%2F2014%2F01%2F09%2Fdesarrollo-agil-con-scrum%2F&amp;text="  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='twitter'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1625px 0px'   /> <span class="head">Tweet about it</span></a></li></ul><div class="clean"></div> </div>							<div class="clear"></div>
+			</div>
+			
+			<p class="entry-meta"><span class="entry-categories">Posted in: <a href="http://osl.ugr.es/category/formacion/" title="Ver todas las entradas en Formación" rel="category tag">Formación</a>, <a href="http://osl.ugr.es/category/formacion/talleres-formacion/" title="Ver todas las entradas en Talleres" rel="category tag">Talleres</a>.</span><br />
+							<span class="entry-tags">Tagged: <a href="http://osl.ugr.es/tag/aprendizaje/" rel="tag">aprendizaje</a> &middot; <a href="http://osl.ugr.es/tag/codeko/" rel="tag">codeko</a> &middot; <a href="http://osl.ugr.es/tag/desarrollo-agil/" rel="tag">desarrollo ágil</a> &middot; <a href="http://osl.ugr.es/tag/scrum/" rel="tag">scrum</a> &middot; <a href="http://osl.ugr.es/tag/software-libre/" rel="tag">software libre</a> &middot; <a href="http://osl.ugr.es/tag/talleres/" rel="tag">talleres</a><br /></span>
+			</p>
+		</div><!--.entry-->
+		
+				
+		<div class="entry hentry" id="post-5567">
+			
+			<h2 class="entry-title"><a href="http://osl.ugr.es/2013/12/10/charla-de-introduccion-a-jquery/" rel="bookmark" title="Permalink to Charla de introducción a jQuery">Charla de introducción a jQuery</a></h2>
+			
+			<div class="entry-byline">
+				<span class="entry-date"><abbr class="updated" title="2013-12-10T17:36:20+0000">dic 10th, 2013</abbr></span>
+				<address class="author vcard">by <a class="url fn" href="http://psicobyte.com">Pablo Hinojosa</a>. </address>
+				<a href="http://osl.ugr.es/2013/12/10/charla-de-introduccion-a-jquery/#respond" class="comments-link"  title="Comentarios en Charla de introducción a jQuery">No comments yet</a>							</div>
+			
+			<div class="entry-content">
+				<p>El próximo Jueves 12 a las 12:00, Boris Burgos y María Hinojosa, de la empresa de software <a href="http://codeko.com/">Codeko</a>, impartirán una charla de introducción a <a href="http://jquery.com/">jQuery</a>.</p>
+<p>Será en en el aula P1 de la <a href="http://etsiit.ugr.es/">Escuela Técnica Superior de Informática y Telecomunicaciones</a> de la <a href="http://www.ugr.es/">Universidad de Granada</a> y la entrada es libre hasta completar el aforo aunque, para facilitar la planificación, conviene que te apuntes en <a href="https://docs.google.com/spreadsheet/viewform?usp=drive_web&#038;formkey=dGlvTXVEeUtyakdxc1lWVG54SGg2T0E6MA#gid=0">este formulario</a>.</p>
+<div class='shareinpost'><ul class="socialwrap row"><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Charla de introducción a jQuery en Blogger'  href='http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F&amp;n=Charla+de+introducci%C3%B3n+a+jQuery&amp;pli=1'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='blogger'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-75px 0px'   /> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Bookmark Charla de introducción a jQuery en Delicious'  href='http://delicious.com/post?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F&amp;title=Charla+de+introducci%C3%B3n+a+jQuery'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='delicious'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-175px 0px'   /> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Charla de introducción a jQuery en DIgg'  href='http://digg.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F&amp;title=Charla+de+introducci%C3%B3n+a+jQuery&amp;bodytext=El+pr%C3%B3ximo+Jueves+12+a+las+12%3A00%2C+Boris+Burgos+y+Mar%C3%ADa+Hinojosa%2C+de+la+empresa+de+software+Codeko%2C+impartir%C3%A1n+una+charla+de+introducci%C3%B3n+a+jQuery.%0D%0A%0D%0ASer%C3%A1+en+en+el+aula+P1+de+la+Escuela+T%C3%A9cnica+Superior+de+Inform%C3%A1tica+y+Telecomunicaciones+de+la+Universidad+de+Granada+y+la+entrada+es+libre+hasta+completar+el+afor'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='digg'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-225px 0px'   /> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Recomendar Charla de introducción a jQuery en Facebook'  href='http://www.facebook.com/sharer.php?u=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F&amp;t=Charla+de+introducci%C3%B3n+a+jQuery'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='facebook'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-300px 0px'   /> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Charla de introducción a jQuery en G+'  href='https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F&amp;title=Charla+de+introducci%C3%B3n+a+jQuery'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='gplus'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-625px 0px'   /> <span class="head"></span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Charla de introducción a jQuery en identica'  href='http://identi.ca/notice/new?status_textarea=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='identica'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-700px 0px'   /> <span class="head">Share on identica</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Charla de introducción a jQuery en Reddit'  href='http://www.reddit.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F&amp;title=Charla+de+introducci%C3%B3n+a+jQuery'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='reddit'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px'   /> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Charla de introducción a jQuery en Tumblr.'  href='http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F&amp;t=Charla+de+introducci%C3%B3n+a+jQuery'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='tumblr'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1600px 0px'   /> <span class="head">Tumblr it</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Tweet Charla de introducción a jQuery'  href="http://twitter.com/share?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F12%2F10%2Fcharla-de-introduccion-a-jquery%2F&amp;text="  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='twitter'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1625px 0px'   /> <span class="head">Tweet about it</span></a></li></ul><div class="clean"></div> </div>							<div class="clear"></div>
+			</div>
+			
+			<p class="entry-meta"><span class="entry-categories">Posted in: <a href="http://osl.ugr.es/category/formacion/" title="Ver todas las entradas en Formación" rel="category tag">Formación</a>, <a href="http://osl.ugr.es/category/formacion/talleres-formacion/" title="Ver todas las entradas en Talleres" rel="category tag">Talleres</a>.</span><br />
+							<span class="entry-tags"></span>
+			</p>
+		</div><!--.entry-->
+		
+				
+		<div class="entry hentry" id="post-5480">
+			
+			<h2 class="entry-title"><a href="http://osl.ugr.es/2013/11/07/ix-campana-ordenadores-libres-con-software-libre/" rel="bookmark" title="Permalink to IX Campaña “Ordenadores Libres con Software Libre”">IX Campaña “Ordenadores Libres con Software Libre”</a></h2>
+			
+			<div class="entry-byline">
+				<span class="entry-date"><abbr class="updated" title="2013-11-07T16:17:30+0000">nov 7th, 2013</abbr></span>
+				<address class="author vcard">by <a class="url fn" href="http://seravb.wordpress.com">Serafín Vélez Barrera</a>. </address>
+				<a href="http://osl.ugr.es/2013/11/07/ix-campana-ordenadores-libres-con-software-libre/#comments" class="comments-link"  title="Comentarios en IX Campaña “Ordenadores Libres con Software Libre”">1 comment</a>							</div>
+			
+			<div class="entry-content">
+				<p>Algo que es imposible parar es el paso del tiempo e influye en todo y desde que se tiene consciencia lo que se diseña, las cosas se hacían para que duraran por muchos años pero ya es difícil conseguir esto ya que no se lucha contra la llamada obsolescencia programada, la encargada de hacer que los objetos que usamos en nuestras casas, los que usan las fábricas, y en más sitios no llegan a aguantar el ritmo de uso que deberían. Hay un documental muy interesante sobre el tema y lo podéis ver <a href="http://www.rtve.es/alacarta/videos/el-documental/documental-comprar-tirar-comprar/1382261/">aquí</a> que os recomiendo ya que está relacionado con la noticia del post.</p>
+<p>Es por ello que seguimos realizando esta labor, hacer donaciones de equipos a asociaciones sin ánimo de lucro que aunque lleguen a estar obsoletos aún siguen funcionando como el primer día prácticamente y todo gracias a que físicamente reciben todas las atenciones necesarias y en el aspecto de software se lleva el mejor posible para así conseguir que un equipo que por viejo que se vea aún sea utilizable.</p>
+<p>Como siempre aquí si queréis tenéis los enlaces a las campañas anteriores <strong><a href="http://osl.ugr.es/2012/03/23/ordenadores-libres-con-software-libre/" target="_blank">I</a></strong>, <strong><a href="http://osl.ugr.es/2012/07/14/ii-campana-ordenadores-libres-con-software-libre/" target="_blank">II</a>, <a href="http://osl.ugr.es/2012/08/26/iii-campana-ordenadores-libres-con-software-libre/" target="_blank">III</a>, <a href="http://osl.ugr.es/2012/10/08/iv-campana-ordenadores-libres-con-software-libre/">IV</a>, <a href="http://osl.ugr.es/2013/01/30/finalizada-la-v-campana-ordenadores-libres-con-software-libre/" target="_blank">V,</a> <a href="http://osl.ugr.es/2013/02/21/vi-campana-ordenadores-libres-con-software-libre/" target="_blank">VI,</a> </strong><a title="VII Campaña" href="http://osl.ugr.es/2013/05/16/vii-campana-ordenadores-libres-con-software-libre/"><strong>VII</strong>,</a> <strong><a href="http://osl.ugr.es/2013/06/24/viii-campana-ordenadores-libres-con-software-libre/">VIII</a></strong> por si tenéis curiosidad de las experiencias vividas. Como toda campaña, consta de unas <strong><a href="http://osl.ugr.es/cursos-y-eventos/ordenadores-libres-con-software-libre/bases-de-la-campana-ordenadores-libres-con-software-libre/" target="_blank">bases que podéis consultar en la web</a></strong></p>
+<p>Ya estamos en la 9ª Campaña de donación de Ordenadores Libres con Software Libre así que ya podéis hacer vuestras peticiones de los equipos que disponemos en el siguiente <a href="https://docs.google.com/spreadsheet/viewform?usp=drive_web&amp;formkey=dGZSclVVSk1vWE1hcE1RLV90eEkyWFE6MA#gid=0"><strong>formulario</strong></a>. El <a href="https://docs.google.com/spreadsheet/ccc?key=0Al87DC4t6r23dHlocW12bTNwUkhJLXlLODhQMDJfWWc&amp;usp=sharing"><strong>catálogo</strong></a> está aquí y puedes ver el material del que disponemos(se irá actualizando con más material hasta el cierre de solicitudes de la campaña).</p>
+<p>Como en <a href="http://osl.ugr.es/2013/05/16/vii-campana-ordenadores-libres-con-software-libre/" target="_blank">anteriores campañas</a>, se cuenta con el apoyo del resto de la <strong><a href="http://detic.ugr.es/">Delegación TIC</a></strong>, especialmente el <strong><a href="http://csirc.ugr.es">CSIRC</a></strong>, <strong><a href="http://gerencia.ugr.es">Gerencia</a></strong> y la <strong><a href="http://www.ugr.es/pages/servicios/uca">Unidad de Calidad Ambiental</a></strong> de la <strong><a href="http://www.ugr.es" target="_blank">UGR</a></strong>.</p>
+<p>Y siempre os indicamos lo mismo, para recibir el material:</p>
+<ol>
+<li>Haz la petición de lo que necesites.</li>
+<li>Espera a las adjudicaciones del material.</li>
+<li>Si te hemos asignado algún equipo ven al taller de formación (<strong>que es obligatoria la asistencia</strong>) para así aprender a usar el material, con todos los pasos más que básicos, el como se configura el equipo para usarlo en una red y darle todo el uso que se le pueda dar.</li>
+</ol>
+<p>A cambio únicamente pedimos un pequeño gran gesto por parte del receptor y es la publicación de al menos una noticia en la que se mencione a la UGR, a nosotros y que se incluya al menos una fotografía de los equipos y si es con el material en funcionamiento mucho mejor para así nosotros alegrarnos de la labor realizada. También aparte de la noticia si se publica por otra red social perfecto.</p>
+<p>La campaña la cerramos el día 22 de noviembre así que apresúrate a hacer tu petición si estás interesado y espera a que te comuniquemos las asignaciones del material que ofrecemos y para quien reciba material ya les indicaremos por correo electrónico la fecha del taller.</p>
+<p>Resumiendo:</p>
+<ul>
+<li>Consulta el <a href="https://docs.google.com/spreadsheet/ccc?key=0Al87DC4t6r23dHlocW12bTNwUkhJLXlLODhQMDJfWWc&amp;usp=sharing">catálogo de material</a>.</li>
+<li>Y rellena el <a href="https://docs.google.com/spreadsheet/viewform?usp=drive_web&amp;formkey=dGZSclVVSk1vWE1hcE1RLV90eEkyWFE6MA#gid=0">formulario</a> solicitando los equipos que desees.</li>
+<li>Para facilitar el uso de los equipos se ha desarrollado un <a href="http://goo.gl/uwgvw" target="_blank">manual de usuario</a> para esta IX Campaña y otro documento para <a href="http://sl.ugr.es/ConfiguracionRedPcDonados">configurar los equipos en red</a>.</li>
+<li>Puedes ver un vídeo con uno de los <a href="http://www.youtube.com/watch?v=9bhCJ5zZgp8" target="_blank">equipos de campañas anteriores en funcionamiento</a>.</li>
+<li>En la <a href="http://osl.ugr.es/galeria/index.php/" target="_blank">galería de la OSL</a> puedes encontrar fotografías tomadas en campañas anteriores.</li>
+</ul>
+<div class='shareinpost'><ul class="socialwrap row"><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir IX Campaña “Ordenadores Libres con Software Libre” en Blogger'  href='http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F&amp;n=IX+Campa%C3%B1a+%E2%80%9COrdenadores+Libres+con+Software+Libre%E2%80%9D&amp;pli=1'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='blogger'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-75px 0px'   /> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Bookmark IX Campaña “Ordenadores Libres con Software Libre” en Delicious'  href='http://delicious.com/post?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F&amp;title=IX+Campa%C3%B1a+%E2%80%9COrdenadores+Libres+con+Software+Libre%E2%80%9D'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='delicious'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-175px 0px'   /> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir IX Campaña “Ordenadores Libres con Software Libre” en DIgg'  href='http://digg.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F&amp;title=IX+Campa%C3%B1a+%E2%80%9COrdenadores+Libres+con+Software+Libre%E2%80%9D&amp;bodytext=Algo+que+es+imposible+parar+es+el+paso+del+tiempo+e+influye+en+todo+y+desde+que+se+tiene+consciencia+lo+que+se+dise%C3%B1a%2C+las+cosas+se+hac%C3%ADan+para+que+duraran+por+muchos+a%C3%B1os+pero+ya+es+dif%C3%ADcil+conseguir+esto+ya+que+no+se+lucha+contra+la+llamada+obsolescencia+programada%2C+la+encargada+de+hacer+que+los+objetos+que+usamo'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='digg'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-225px 0px'   /> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Recomendar IX Campaña “Ordenadores Libres con Software Libre” en Facebook'  href='http://www.facebook.com/sharer.php?u=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F&amp;t=IX+Campa%C3%B1a+%E2%80%9COrdenadores+Libres+con+Software+Libre%E2%80%9D'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='facebook'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-300px 0px'   /> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir IX Campaña “Ordenadores Libres con Software Libre” en G+'  href='https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F&amp;title=IX+Campa%C3%B1a+%E2%80%9COrdenadores+Libres+con+Software+Libre%E2%80%9D'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='gplus'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-625px 0px'   /> <span class="head"></span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir IX Campaña “Ordenadores Libres con Software Libre” en identica'  href='http://identi.ca/notice/new?status_textarea=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='identica'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-700px 0px'   /> <span class="head">Share on identica</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir IX Campaña “Ordenadores Libres con Software Libre” en Reddit'  href='http://www.reddit.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F&amp;title=IX+Campa%C3%B1a+%E2%80%9COrdenadores+Libres+con+Software+Libre%E2%80%9D'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='reddit'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px'   /> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir IX Campaña “Ordenadores Libres con Software Libre” en Tumblr.'  href='http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F&amp;t=IX+Campa%C3%B1a+%E2%80%9COrdenadores+Libres+con+Software+Libre%E2%80%9D'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='tumblr'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1600px 0px'   /> <span class="head">Tumblr it</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Tweet IX Campaña “Ordenadores Libres con Software Libre”'  href="http://twitter.com/share?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F11%2F07%2Fix-campana-ordenadores-libres-con-software-libre%2F&amp;text="  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='twitter'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1625px 0px'   /> <span class="head">Tweet about it</span></a></li></ul><div class="clean"></div> </div>							<div class="clear"></div>
+			</div>
+			
+			<p class="entry-meta"><span class="entry-categories">Posted in: <a href="http://osl.ugr.es/category/software-libre-2/donacion-de-equipos/" title="Ver todas las entradas en Donación de equipos" rel="category tag">Donación de equipos</a>, <a href="http://osl.ugr.es/category/eventos/" title="Ver todas las entradas en Eventos" rel="category tag">Eventos</a>, <a href="http://osl.ugr.es/category/software-libre-2/" title="Ver todas las entradas en Software Libre" rel="category tag">Software Libre</a>.</span><br />
+							<span class="entry-tags">Tagged: <a href="http://osl.ugr.es/tag/bases-donacion/" rel="tag">bases donacion</a> &middot; <a href="http://osl.ugr.es/tag/campana-donacion/" rel="tag">campaña donacion</a> &middot; <a href="http://osl.ugr.es/tag/catalogo-equipos/" rel="tag">catálogo equipos</a> &middot; <a href="http://osl.ugr.es/tag/csirc/" rel="tag">csirc</a> &middot; <a href="http://osl.ugr.es/tag/gerencia/" rel="tag">gerencia</a> &middot; <a href="http://osl.ugr.es/tag/osl/" rel="tag">osl</a> &middot; <a href="http://osl.ugr.es/tag/uca/" rel="tag">uca</a> &middot; <a href="http://osl.ugr.es/tag/ugr/" rel="tag">ugr</a><br /></span>
+			</p>
+		</div><!--.entry-->
+		
+				
+		<div class="entry hentry" id="post-5546">
+			
+			<h2 class="entry-title"><a href="http://osl.ugr.es/2013/10/29/presentacion-del-concurso-universitario-de-software-libre-en-la-etsiit/" rel="bookmark" title="Permalink to Presentación del Concurso Universitario de Software Libre en la ETSIIT">Presentación del Concurso Universitario de Software Libre en la ETSIIT</a></h2>
+			
+			<div class="entry-byline">
+				<span class="entry-date"><abbr class="updated" title="2013-10-29T22:16:44+0000">oct 29th, 2013</abbr></span>
+				<address class="author vcard">by <a class="url fn" href="http://osl.ugr.es">admin</a>. </address>
+				<a href="http://osl.ugr.es/2013/10/29/presentacion-del-concurso-universitario-de-software-libre-en-la-etsiit/#comments" class="comments-link"  title="Comentarios en Presentación del Concurso Universitario de Software Libre en la ETSIIT">1 comment</a>							</div>
+			
+			<div class="entry-content">
+				<p>Mañana, <em>día 30 de octubre</em>, a las <strong>12 de la mañana</strong> en el <em>Salón de Grados</em> de la <a href='http://etsiit.ugr.es'>ETSIIT</a> se presentará la <a href='http://concursofotwarelibre.org/1314'>presente edición del CUSL</a>, 8ª nacional, 6ª en Granada. Este concurso <a href='http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/bases-del-concurso-universitario-de-software-libre-granadino/'>premia el desarrollo de proyectos libres a lo largo del curso escolar</a>. Puede participar cualquiera, trabajando sobre un proyecto desde el principio o continuando proyectos anteriores.<br />
+<a href="http://www.concursosoftwarelibre.org"><img src="http://osl.ugr.es/wp-content/uploads/2010/12/logo-cusl-300x47.png" alt="" title="logo-cusl-2010" width="300" height="47" class="aligncenter size-medium wp-image-2362" /></a><br />
+¿Te queda alguna duda? Pues ven mañana a ver a Juan Julián Merelo, director de la <a href='http://osl.ugr.es'>OSL</a> y a <a href='http://deantares.es/'>Antonio Fernández Ares</a>, participante en varias ediciones anteriores y <a href='http://osl.ugr.es/2013/06/05/cronica-cusl7/'>ganador del premio CEI BioTIC de la edición anterior</a>. Se explicará la mecánica del concurso y se tratarán de resolver todas las dudas que haya sobre el mismo.  </p>
+<div class='shareinpost'><ul class="socialwrap row"><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Presentación del Concurso Universitario de Software Libre en la ETSIIT en Blogger'  href='http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F&amp;n=Presentaci%C3%B3n+del+Concurso+Universitario+de+Software+Libre+en+la+ETSIIT&amp;pli=1'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='blogger'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-75px 0px'   /> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Bookmark Presentación del Concurso Universitario de Software Libre en la ETSIIT en Delicious'  href='http://delicious.com/post?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F&amp;title=Presentaci%C3%B3n+del+Concurso+Universitario+de+Software+Libre+en+la+ETSIIT'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='delicious'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-175px 0px'   /> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Presentación del Concurso Universitario de Software Libre en la ETSIIT en DIgg'  href='http://digg.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F&amp;title=Presentaci%C3%B3n+del+Concurso+Universitario+de+Software+Libre+en+la+ETSIIT&amp;bodytext=Ma%C3%B1ana%2C+d%C3%ADa+30+de+octubre%2C+a+las+12+de+la+ma%C3%B1ana+en+el+Sal%C3%B3n+de+Grados+de+la+ETSIIT+se+presentar%C3%A1+la+presente+edici%C3%B3n+del+CUSL%2C+8%C2%AA+nacional%2C+6%C2%AA+en+Granada.+Este+concurso+premia+el+desarrollo+de+proyectos+libres+a+lo+largo+del+curso+escolar.+Puede+participar+cualquiera%2C+trabajando+sobre+un+proyecto+desde+el+prin'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='digg'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-225px 0px'   /> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Recomendar Presentación del Concurso Universitario de Software Libre en la ETSIIT en Facebook'  href='http://www.facebook.com/sharer.php?u=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F&amp;t=Presentaci%C3%B3n+del+Concurso+Universitario+de+Software+Libre+en+la+ETSIIT'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='facebook'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-300px 0px'   /> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Presentación del Concurso Universitario de Software Libre en la ETSIIT en G+'  href='https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F&amp;title=Presentaci%C3%B3n+del+Concurso+Universitario+de+Software+Libre+en+la+ETSIIT'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='gplus'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-625px 0px'   /> <span class="head"></span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Presentación del Concurso Universitario de Software Libre en la ETSIIT en identica'  href='http://identi.ca/notice/new?status_textarea=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='identica'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-700px 0px'   /> <span class="head">Share on identica</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Presentación del Concurso Universitario de Software Libre en la ETSIIT en Reddit'  href='http://www.reddit.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F&amp;title=Presentaci%C3%B3n+del+Concurso+Universitario+de+Software+Libre+en+la+ETSIIT'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='reddit'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px'   /> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Presentación del Concurso Universitario de Software Libre en la ETSIIT en Tumblr.'  href='http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F&amp;t=Presentaci%C3%B3n+del+Concurso+Universitario+de+Software+Libre+en+la+ETSIIT'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='tumblr'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1600px 0px'   /> <span class="head">Tumblr it</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Tweet Presentación del Concurso Universitario de Software Libre en la ETSIIT'  href="http://twitter.com/share?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F29%2Fpresentacion-del-concurso-universitario-de-software-libre-en-la-etsiit%2F&amp;text="  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='twitter'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1625px 0px'   /> <span class="head">Tweet about it</span></a></li></ul><div class="clean"></div> </div>							<div class="clear"></div>
+			</div>
+			
+			<p class="entry-meta"><span class="entry-categories">Posted in: <a href="http://osl.ugr.es/category/concursos/cusl/" title="Ver todas las entradas en Concurso Universitario de Software Libre" rel="category tag">Concurso Universitario de Software Libre</a>, <a href="http://osl.ugr.es/category/concursos/" title="Ver todas las entradas en Concursos" rel="category tag">Concursos</a>, <a href="http://osl.ugr.es/category/eventos/" title="Ver todas las entradas en Eventos" rel="category tag">Eventos</a>, <a href="http://osl.ugr.es/category/eventos/presentaciones/" title="Ver todas las entradas en Presentaciones" rel="category tag">Presentaciones</a>.</span><br />
+							<span class="entry-tags">Tagged: <a href="http://osl.ugr.es/tag/concurso/" rel="tag">concurso</a> &middot; <a href="http://osl.ugr.es/tag/cusl/" rel="tag">Concurso Universitario de Software Libre</a> &middot; <a href="http://osl.ugr.es/tag/etsiit/" rel="tag">ETSIIT</a> &middot; <a href="http://osl.ugr.es/tag/eventos/" rel="tag">Eventos</a> &middot; <a href="http://osl.ugr.es/tag/premios/" rel="tag">premios</a> &middot; <a href="http://osl.ugr.es/tag/presentaciones/" rel="tag">Presentaciones</a> &middot; <a href="http://osl.ugr.es/tag/proyectos/" rel="tag">proyectos</a> &middot; <a href="http://osl.ugr.es/tag/software-libre/" rel="tag">software libre</a> &middot; <a href="http://osl.ugr.es/tag/ugr/" rel="tag">ugr</a><br /></span>
+			</p>
+		</div><!--.entry-->
+		
+				
+		<div class="entry hentry" id="post-5541">
+			
+			<h2 class="entry-title"><a href="http://osl.ugr.es/2013/10/24/concurso-guadalinex-de-fondos-de-escritorio-2013/" rel="bookmark" title="Permalink to Concurso Guadalinex de fondos de escritorio 2013">Concurso Guadalinex de fondos de escritorio 2013</a></h2>
+			
+			<div class="entry-byline">
+				<span class="entry-date"><abbr class="updated" title="2013-10-24T12:25:49+0000">oct 24th, 2013</abbr></span>
+				<address class="author vcard">by <a class="url fn" href="http://psicobyte.com">Pablo Hinojosa</a>. </address>
+				<a href="http://osl.ugr.es/2013/10/24/concurso-guadalinex-de-fondos-de-escritorio-2013/#comments" class="comments-link"  title="Comentarios en Concurso Guadalinex de fondos de escritorio 2013">1 comment</a>							</div>
+			
+			<div class="entry-content">
+				<p>¿Tienes fotos, dibujos o diseños que te gustaría ver como fondo de escritorio de una <em>distro</em> de GNU/Linux?</p>
+<p>Guadalinex te ofrece participar en su <a href="http://www.guadalinex.org/noticias/noticias/concurso-de-fondos-de-escritorio-2013/">concurso de fondos de escritorio</a>:</p>
+<p>BASES DEL CONCURSO DE FONDOS DE ESCRITORIO 2013</p>
+<p>Podrán participar los usuarios registrados en la web de Guadalinex con una dirección de correo electrónica válida.</p>
+<p>Cada participante podrá enviar un máximo de tres imágenes, que deberán cumplir con estos requisitos:</p>
+<ul>
+<li>Las imágenes estárán guardadas en formato JPG o PNG.</li>
+<li>Serán originales de la persona que las envía. Si se trata de una imagen diseñada por ordenador, sus componentes deberán contar con licencias libres.</li>
+<li>Tendrán un tamaño mínimo de 1280 × 1024 pixels</li>
+<li>No contendrán rostros reconocibles, publicidad o marcas comerciales.</li>
+</ul>
+<p>Para participar, el concursante deberá enviar cada foto por correo electrónico a <a href="mailto:concurso-fondos@guadalinex.org">concurso-fondos@guadalinex.org</a>, adjuntando su usuario de la web de Guadalinex, la población y provincia donde se ha realizado.</p>
+<p>El plazo de admisión concluye el día 21 de Noviembre de 2013 (inclusive).</p>
+<p>Los premios consistirán en lotes de material de Guadalinex: un peluche de la mascota Andatuz, una camiseta de Guadalinex, una alfombrilla de ratón y alguna otra sorpresa.</p>
+<p>Terminado el plazo de admisión, el jurado seleccionará las cinco mejores para premiar a sus autores, y poner las imágenes ganadoras a disposición de la comunidad de usuarios, de manera que puedan instalar como fondos de escritorio en Guadalinex.</p>
+<p>El participante acepta que las imágenes podrán ser publicadas con licencia libre que permita modificarlas, compartirlas y redistribuirlas sin limitaciones.</p>
+<p>La organización podrá rechazar cualquier fondo que considere de mal gusto, discriminatorio, violento o insultante.</p>
+<p>Sólo se enviarán premios a direcciones postales españolas, pertenecientes a la península ibérica, Ceuta, Melilla, Islas Canarias y Baleares. Para el envío de los premios la organización contactará con los autores usando la dirección de correo electrónico con la que estén registrados en la web de Guadalinex. Si pasados treinta días tras el envío de estos correos algún participante no hubiera contestado, su premio podrá ser destinado a otro participante.</p>
+<div class='shareinpost'><ul class="socialwrap row"><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Concurso Guadalinex de fondos de escritorio 2013 en Blogger'  href='http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F&amp;n=Concurso+Guadalinex+de+fondos+de+escritorio+2013&amp;pli=1'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='blogger'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-75px 0px'   /> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Bookmark Concurso Guadalinex de fondos de escritorio 2013 en Delicious'  href='http://delicious.com/post?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F&amp;title=Concurso+Guadalinex+de+fondos+de+escritorio+2013'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='delicious'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-175px 0px'   /> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Concurso Guadalinex de fondos de escritorio 2013 en DIgg'  href='http://digg.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F&amp;title=Concurso+Guadalinex+de+fondos+de+escritorio+2013&amp;bodytext=%C2%BFTienes+fotos%2C+dibujos+o+dise%C3%B1os+que+te+gustar%C3%ADa+ver+como+fondo+de+escritorio+de+una+distro+de+GNU%2FLinux%3F%0D%0A%0D%0AGuadalinex+te+ofrece+participar+en+su+concurso+de+fondos+de+escritorio%3A%0D%0A%0D%0ABASES+DEL+CONCURSO+DE+FONDOS+DE+ESCRITORIO+2013%0D%0A%0D%0APodr%C3%A1n+participar+los+usuarios+registrados+en+la+web+de+Guadalinex+con+una+direcc'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='digg'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-225px 0px'   /> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Recomendar Concurso Guadalinex de fondos de escritorio 2013 en Facebook'  href='http://www.facebook.com/sharer.php?u=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F&amp;t=Concurso+Guadalinex+de+fondos+de+escritorio+2013'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='facebook'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-300px 0px'   /> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Concurso Guadalinex de fondos de escritorio 2013 en G+'  href='https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F&amp;title=Concurso+Guadalinex+de+fondos+de+escritorio+2013'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='gplus'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-625px 0px'   /> <span class="head"></span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Concurso Guadalinex de fondos de escritorio 2013 en identica'  href='http://identi.ca/notice/new?status_textarea=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='identica'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-700px 0px'   /> <span class="head">Share on identica</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Concurso Guadalinex de fondos de escritorio 2013 en Reddit'  href='http://www.reddit.com/submit?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F&amp;title=Concurso+Guadalinex+de+fondos+de+escritorio+2013'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='reddit'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px'   /> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Compartir Concurso Guadalinex de fondos de escritorio 2013 en Tumblr.'  href='http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F&amp;t=Concurso+Guadalinex+de+fondos+de+escritorio+2013'  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='tumblr'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1600px 0px'   /> <span class="head">Tumblr it</span></a></li><li class="iconOnly"><a  rel='nofollow'  target='_blank'  title='Tweet Concurso Guadalinex de fondos de escritorio 2013'  href="http://twitter.com/share?url=http%3A%2F%2Fosl.ugr.es%2F2013%2F10%2F24%2Fconcurso-guadalinex-de-fondos-de-escritorio-2013%2F&amp;text="  ><img  src='http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif'  height='24' width='24'  class='image-24' alt='twitter'  style='background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1625px 0px'   /> <span class="head">Tweet about it</span></a></li></ul><div class="clean"></div> </div>							<div class="clear"></div>
+			</div>
+			
+			<p class="entry-meta"><span class="entry-categories">Posted in: <a href="http://osl.ugr.es/category/concursos/" title="Ver todas las entradas en Concursos" rel="category tag">Concursos</a>, <a href="http://osl.ugr.es/category/mundo-libre/" title="Ver todas las entradas en Mundo Libre" rel="category tag">Mundo Libre</a>.</span><br />
+							<span class="entry-tags"></span>
+			</p>
+		</div><!--.entry-->
+		
+				
+		
+	<div class="navigation">
+		<div class="navleft"><a href="http://osl.ugr.es/page/2/" >&#8592; Earlier Posts</a></div>
+		<div class="navright"></div>
+		<div class="clear"></div>
+	</div>
+
+		
+			
+
+	</div><!--#primary-->
+	
+<div id="secondary">
+
+<div id="sidebar-1" class="sidebar">
+
+	<div id="pp-feed">
+		<p><a href="http://osl.ugr.es/feed/" title="Subscribe to this Feed via RSS">Suscribir</a></p>
+	</div>
+	
+	<ul class="xoxo">
+	<!--sidebar-1 widgets start-->
+
+		
+		<li id="recent-posts" class="widget">
+			<h2>Historias recientes</h2>
+			<ul>
+					<li><a href='http://osl.ugr.es/2014/01/09/desarrollo-agil-con-scrum/'>Desarrollo ágil con Scrum</a></li>
+	<li><a href='http://osl.ugr.es/2013/12/10/charla-de-introduccion-a-jquery/'>Charla de introducción a jQuery</a></li>
+	<li><a href='http://osl.ugr.es/2013/11/07/ix-campana-ordenadores-libres-con-software-libre/'>IX Campaña “Ordenadores Libres con Software Libre”</a></li>
+	<li><a href='http://osl.ugr.es/2013/10/29/presentacion-del-concurso-universitario-de-software-libre-en-la-etsiit/'>Presentación del Concurso Universitario de Software Libre en la ETSIIT</a></li>
+	<li><a href='http://osl.ugr.es/2013/10/24/concurso-guadalinex-de-fondos-de-escritorio-2013/'>Concurso Guadalinex de fondos de escritorio 2013</a></li>
+	<li><a href='http://osl.ugr.es/2013/10/19/instalar-distro-gnulinux-en-un-asus-modelo-k55v/'>Instalar distro GNU/Linux en un Asus modelo K55V</a></li>
+	<li><a href='http://osl.ugr.es/2013/10/13/dayforfailure/'>#dayforfailure</a></li>
+	<li><a href='http://osl.ugr.es/2013/10/01/sfd3013-cronica/'>SFD2013 (Crónica)</a></li>
+	<li><a href='http://osl.ugr.es/2013/09/11/sfd-2013/'>SFD 2013</a></li>
+	<li><a href='http://osl.ugr.es/2013/09/09/cursos-online-de-software-libre-de-la-ugr-para-este-cuatrimestre/'>Cursos Online de Software Libre de la UGR para este cuatrimestre</a></li>
+			</ul>
+		</li>
+		
+			<li><a href='http://concursosoftwarelibre.org'><img src='http://osl.ugr.es/wp-content/uploads/2010/12/logo-cusl.png' width='200' alt='Logo Concurso Universitario de Software Libre' /></a></li>
+
+		<li id="categories" class="widget">
+			<h2>Categor&iacute;as</h2>
+			<ul>
+					<li class="cat-item cat-item-3"><a href="http://osl.ugr.es/category/administrivia/" title="Ver todas las entradas archivadas en Administrivia">Administrivia</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://osl.ugr.es/category/concursos/" title="Ver todas las entradas archivadas en Concursos">Concursos</a>
+<ul class='children'>
+	<li class="cat-item cat-item-9"><a href="http://osl.ugr.es/category/concursos/cusl/" title="Ver todas las entradas archivadas en Concurso Universitario de Software Libre">Concurso Universitario de Software Libre</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-430"><a href="http://osl.ugr.es/category/cronica-2/" title="Ver todas las entradas archivadas en Cronica">Cronica</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://osl.ugr.es/category/eventos/" title="Ver todas las entradas archivadas en Eventos">Eventos</a>
+<ul class='children'>
+	<li class="cat-item cat-item-644"><a href="http://osl.ugr.es/category/eventos/cafe-con/" title="Ver todas las entradas archivadas en Café con">Café con</a>
+</li>
+	<li class="cat-item cat-item-657"><a href="http://osl.ugr.es/category/eventos/hackathon-eventos/" title="Ver todas las entradas archivadas en Hackathon">Hackathon</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://osl.ugr.es/category/eventos/presentaciones/" title="Ver todas las entradas archivadas en Presentaciones">Presentaciones</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://osl.ugr.es/category/formacion/" title="Ver todas las entradas archivadas en Formación">Formación</a>
+<ul class='children'>
+	<li class="cat-item cat-item-682"><a href="http://osl.ugr.es/category/formacion/campus-infantil-formacion/" title="Ver todas las entradas archivadas en Campus infantil">Campus infantil</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://osl.ugr.es/category/formacion/cursos/" title="Ver todas las entradas archivadas en Cursos">Cursos</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-52"><a href="http://osl.ugr.es/category/formacion/cursos/pas/" title="Ver todas las entradas archivadas en PAS">PAS</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-57"><a href="http://osl.ugr.es/category/formacion/talleres-formacion/" title="Ver todas las entradas archivadas en Talleres">Talleres</a>
+</li>
+	<li class="cat-item cat-item-629"><a href="http://osl.ugr.es/category/formacion/webinar/" title="Ver todas las entradas archivadas en Webinar">Webinar</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-667"><a href="http://osl.ugr.es/category/google-summer-of-code/" title="Ver todas las entradas archivadas en Google Summer of Code">Google Summer of Code</a>
+</li>
+	<li class="cat-item cat-item-245"><a href="http://osl.ugr.es/category/hardware/" title="Ver todas las entradas archivadas en hardware">hardware</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://osl.ugr.es/category/howtos/" title="Ver todas las entradas archivadas en howtos">howtos</a>
+<ul class='children'>
+	<li class="cat-item cat-item-324"><a href="http://osl.ugr.es/category/howtos/escuela-tic-2-0/" title="Ver todas las entradas archivadas en Escuela TIC 2.0">Escuela TIC 2.0</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-350"><a href="http://osl.ugr.es/category/lecturas/" title="Ver todas las entradas archivadas en lecturas">lecturas</a>
+</li>
+	<li class="cat-item cat-item-148"><a href="http://osl.ugr.es/category/medios/" title="Ver todas las entradas archivadas en medios">medios</a>
+</li>
+	<li class="cat-item cat-item-447"><a href="http://osl.ugr.es/category/multimedia-2/" title="Ver todas las entradas archivadas en Multimedia">Multimedia</a>
+</li>
+	<li class="cat-item cat-item-115"><a href="http://osl.ugr.es/category/mundo-libre/" title="Ver todas las entradas archivadas en Mundo Libre">Mundo Libre</a>
+<ul class='children'>
+	<li class="cat-item cat-item-342"><a href="http://osl.ugr.es/category/mundo-libre/congresos/" title="Ver todas las entradas archivadas en congresos">congresos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-617"><a href="http://osl.ugr.es/category/opendata/" title="Ver todas las entradas archivadas en opendata">opendata</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://osl.ugr.es/category/proyectos/" title="Ver todas las entradas archivadas en proyectos">proyectos</a>
+</li>
+	<li class="cat-item cat-item-234"><a href="http://osl.ugr.es/category/reflexiones/" title="Ver todas las entradas archivadas en reflexiones">reflexiones</a>
+</li>
+	<li class="cat-item cat-item-389"><a href="http://osl.ugr.es/category/scratch/" title="Ver todas las entradas archivadas en scratch">scratch</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://osl.ugr.es/category/servicios/" title="Ver todas las entradas archivadas en Servicios">Servicios</a>
+</li>
+	<li class="cat-item cat-item-408"><a href="http://osl.ugr.es/category/software-libre-2/" title="Aplicaciones, distros, versiones, software que se viene liberando... todo las noticias relacionadas con el software libre.">Software Libre</a>
+<ul class='children'>
+	<li class="cat-item cat-item-77"><a href="http://osl.ugr.es/category/software-libre-2/aplicaciones/" title="Ver todas las entradas archivadas en Aplicaciones">Aplicaciones</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-290"><a href="http://osl.ugr.es/category/software-libre-2/aplicaciones/software-liberado-aplicaciones/" title="Ver todas las entradas archivadas en software-liberado">software-liberado</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-134"><a href="http://osl.ugr.es/category/software-libre-2/distribuciones-software-libre-2/" title="Ver todas las entradas archivadas en Distribuciones">Distribuciones</a>
+</li>
+	<li class="cat-item cat-item-599"><a href="http://osl.ugr.es/category/software-libre-2/donacion-de-equipos/" title="Ver todas las entradas archivadas en Donación de equipos">Donación de equipos</a>
+</li>
+	<li class="cat-item cat-item-182"><a href="http://osl.ugr.es/category/software-libre-2/imprescindibles-firefox/" title="Ver todas las entradas archivadas en imprescindibles firefox">imprescindibles firefox</a>
+</li>
+	<li class="cat-item cat-item-117"><a href="http://osl.ugr.es/category/software-libre-2/juegos/" title="En Linux también se juega, y hay miles de opciones para jugar con software libre">Juegos</a>
+</li>
+	<li class="cat-item cat-item-250"><a href="http://osl.ugr.es/category/software-libre-2/tipos-de-letras/" title="Ver todas las entradas archivadas en Tipos de letra">Tipos de letra</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://osl.ugr.es/category/uncategorized/" title="Ver todas las entradas archivadas en Uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="http://osl.ugr.es/category/webs/" title="Ver todas las entradas archivadas en Webs">Webs</a>
+</li>
+			</ul>
+		</li>
+
+	<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+	<script>
+	new TWTR.Widget({
+	  version: 2,
+	  type: 'profile',
+	  rpp: 4,
+	  interval: 6000,
+	  width: 200,
+	  height: 300,
+	  theme: {
+	    shell: {
+	      background: '#cccccc',
+	      color: '#000000'
+	    },
+	    tweets: {
+	      background: '#eeeeee',
+	      color: '#000000',
+	      links: '#0070c5'
+	    }
+	  },
+	  features: {
+	    scrollbar: false,
+	    loop: false,
+	    live: false,
+	    hashtags: true,
+	    timestamp: true,
+	    avatars: false,
+	    behavior: 'all'
+	  }
+	}).render().setUser('OSLUGR').start();
+	</script>
+
+	<!--sidebar-1 widgets end-->
+	</ul>
+
+</div><!--#sidebar-1-->
+
+<div id="sidebar-2" class="sidebar">
+	
+	<div id="pp-search">
+			<form method="get" id="pp-searchform" action="http://osl.ugr.es">
+<div>	<input type="text" name="s" id="s-input" size="14" maxlength="150" accesskey="4" title="Buscar en Oficina de Software Libre de la Universidad de Granada" />
+	<input type="submit" id="s-submit" value="Buscar" /> <label for="s-input"><sub>Buscar</sub></label>
+</div>
+</form>
+	</div>
+	
+	<ul class="xoxo">
+	<!--sidebar-2 widgets start-->
+		
+		<li id="calendar" class="widget">
+			<h2>Calendario de Eventos</h2>
+<iframe src="//www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;showTz=0&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=n1m8l12f277oq6cp0ukua09h9c%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=Europe%2FMadrid" style=" border-width:0 " width="200" height="300" frameborder="0" scrolling="no"><a href="http://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;showTz=0&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=n1m8l12f277oq6cp0ukua09h9c%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=Europe%2FMadrid" title="Google Calendars">Calendario de Eventos</a></iframe>
+
+		</li>
+		
+<!--		<li id="pages" class="widget">
+			<h2>Páginas</h2>
+			<ul>
+			<li class="page_item page-item-647 page_item_has_children"><a href="http://osl.ugr.es/cursos-y-eventos/">Cursos, actividades y material</a>
+<ul class='children'>
+	<li class="page_item page-item-564"><a href="http://osl.ugr.es/cursos-y-eventos/i-campus-de-software-libre-para-ninoas/">Campus de Software Libre para Niñ(o|a)s</a></li>
+	<li class="page_item page-item-4391"><a href="http://osl.ugr.es/cursos-y-eventos/cursos-libres-de-la-osl/">Cursos Libres de la OSL</a></li>
+	<li class="page_item page-item-1161"><a href="http://osl.ugr.es/cursos-y-eventos/i-hackathon-de-proyectos-de-software-libre-de-la-ugr/">I Hackathón de Proyectos de Software Libre de la UGR</a></li>
+	<li class="page_item page-item-1222"><a href="http://osl.ugr.es/cursos-y-eventos/material-usado-en-los-talleres-y-cursos/">Material usado en los talleres y cursos</a></li>
+	<li class="page_item page-item-1436"><a href="http://osl.ugr.es/cursos-y-eventos/modulos-simm-para-la-universidad-de-holguin-en-cuba/">Módulos DDR para la Universidad de Holguín, en Cuba</a></li>
+	<li class="page_item page-item-3782 page_item_has_children"><a href="http://osl.ugr.es/cursos-y-eventos/ordenadores-libres-con-software-libre/">Ordenadores Libres con Software Libre</a>
+	<ul class='children'>
+		<li class="page_item page-item-3784"><a href="http://osl.ugr.es/cursos-y-eventos/ordenadores-libres-con-software-libre/bases-de-la-campana-ordenadores-libres-con-software-libre/">Bases de la VIII campaña &#8220;Ordenadores Libres con Software Libre&#8221;</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-3467"><a href="http://osl.ugr.es/cursos-y-eventos/primer-hackathon-reto-de-inteligencia-artificial-de-google-en-la-ugr/">Primer Hackathon Reto de Inteligencia Artificial de Google en la UGR</a></li>
+	<li class="page_item page-item-3455"><a href="http://osl.ugr.es/cursos-y-eventos/primer-reto-de-inteligencia-artificial-de-google-en-la-ugr/">Primer reto de Inteligencia Artificial de Google en la UGR</a></li>
+	<li class="page_item page-item-644"><a href="http://osl.ugr.es/cursos-y-eventos/programacion-i-jornada-de-proyectos-de-software-libre/">Programación I Jornada de Proyectos de Software Libre (09-10)</a></li>
+	<li class="page_item page-item-1909"><a href="http://osl.ugr.es/cursos-y-eventos/programacion-ii-jornada-de-proyectos-de-software-libre-10-11/">Programación II Jornada de Proyectos de Software Libre (10-11)</a></li>
+	<li class="page_item page-item-3235"><a href="http://osl.ugr.es/cursos-y-eventos/talleres-de-aplicaciones-libres-en-la-etsiit-2011-2012/">Talleres de Aplicaciones Libres en la ETSIIT (2011-2012)</a></li>
+	<li class="page_item page-item-3241"><a href="http://osl.ugr.es/cursos-y-eventos/talleres-de-programacion-de-aplicaciones-libres-en-la-etsiit-2011-2012/">Talleres de Programación de Aplicaciones Libres en la ETSIIT (2011-2012)</a></li>
+	<li class="page_item page-item-652 page_item_has_children"><a href="http://osl.ugr.es/cursos-y-eventos/actividades-de-la-osl/">Talleres de Software Libre en la ETSIIT</a>
+	<ul class='children'>
+		<li class="page_item page-item-1042"><a href="http://osl.ugr.es/cursos-y-eventos/actividades-de-la-osl/preguntas-frecuentemente-preguntadas/">Preguntas Frecuentemente Preguntadas</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-1967"><a href="http://osl.ugr.es/cursos-y-eventos/talleres-de-software-libre-en-la-etsiit-2010-2011/">Talleres de Software Libre en la ETSIIT (2010-2011)</a></li>
+	<li class="page_item page-item-2748"><a href="http://osl.ugr.es/cursos-y-eventos/talleres-de-software-libre-en-la-facultad-de-ciencias-2010-2011/">Talleres de Software Libre en la Facultad de Ciencias (2010-2011)</a></li>
+	<li class="page_item page-item-1869"><a href="http://osl.ugr.es/cursos-y-eventos/talleres-de-software-libre-multimedia-en-bellas-artes-2010-2011/">Talleres de Software Libre Multimedia en Bellas Artes (2010-2011)</a></li>
+	<li class="page_item page-item-4510"><a href="http://osl.ugr.es/cursos-y-eventos/talleres-de-software-libre-multimedia-en-bellas-artes-2012-2013/">Talleres de Software Libre Multimedia en Bellas Artes (2012-2013)</a></li>
+	<li class="page_item page-item-1962"><a href="http://osl.ugr.es/cursos-y-eventos/talleres-de-software-libre-multimedia-en-la-etsiit-2010-2011/">Talleres de Software Libre Multimedia en la ETSIIT (2010-2011)</a></li>
+	<li class="page_item page-item-937"><a href="http://osl.ugr.es/cursos-y-eventos/talleres-vespertinos-etsiit/">Talleres vespertinos sobre Software Libre en la ETSIIT</a></li>
+</ul>
+</li>
+<li class="page_item page-item-593 page_item_has_children"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/">CUSL Granada</a>
+<ul class='children'>
+	<li class="page_item page-item-3628"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/3o-hackathon-de-proyectos-de-software-libre-de-la-ugr/">3º Hackathon de proyectos de software libre de la UGR</a></li>
+	<li class="page_item page-item-604"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/bases-del-concurso-universitario-de-software-libre-granadino/">Bases del Concurso Universitario de Software Libre Granadino</a></li>
+	<li class="page_item page-item-3541 page_item_has_children"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/el-cusl-granadino-en-anos-anteriores/">El CUSL granadino en años anteriores</a>
+	<ul class='children'>
+		<li class="page_item page-item-2393"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/el-cusl-granadino-en-anos-anteriores/2%c2%ba-hackathon-de-proyectos-de-software-libre-de-la-ugr/">2º Hackathon de proyectos de software libre de la UGR</a></li>
+		<li class="page_item page-item-1420"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/el-cusl-granadino-en-anos-anteriores/fase-final-del-ii-concurso-universitario-de-software-libre-2010/">Fase final del II Concurso Universitario Granadino de Software Libre 2010</a></li>
+		<li class="page_item page-item-2792"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/el-cusl-granadino-en-anos-anteriores/fase-final-del-iii-concurso-universitario-granadino-de-software-libreconcurso-de-aplicaciones-libres-del-pas/">Fase final del III Concurso Universitario Granadino de Software Libre/Concurso de aplicaciones libres del PAS</a></li>
+		<li class="page_item page-item-2244"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/el-cusl-granadino-en-anos-anteriores/listado-de-proyectos-granadinos-para-el-cusl-2010-2011/">Listado de proyectos granadinos para el CUSL 2010-2011</a></li>
+		<li class="page_item page-item-3536"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/el-cusl-granadino-en-anos-anteriores/proyectos-granadinos-presentados-al-cusl-2012/">Proyectos granadinos presentados al CUSL 2011 &#8211; 2012</a></li>
+		<li class="page_item page-item-917"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/el-cusl-granadino-en-anos-anteriores/proyectos-locales/">Proyectos locales (CUSL 2009 &#8211; 2010)</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-3361"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/iii-jornadas-de-proyectos-de-software-libre/">III Jornadas de proyectos de software libre</a></li>
+	<li class="page_item page-item-5164"><a href="http://osl.ugr.es/concurso-universitario-de-software-libre-granadino/proyectos-granadinos-presentados-al-cusl-2012-2013/">Proyectos granadinos presentados al CUSL 2012 -2013</a></li>
+</ul>
+</li>
+<li class="page_item page-item-1060"><a href="http://osl.ugr.es/documentos-libres-de-la-ugr/">Documentos libres de la UGR</a></li>
+<li class="page_item page-item-2 page_item_has_children"><a href="http://osl.ugr.es/about/">Sobre la OSL</a>
+<ul class='children'>
+	<li class="page_item page-item-75"><a href="http://osl.ugr.es/about/objetivos/">Objetivos</a></li>
+	<li class="page_item page-item-167"><a href="http://osl.ugr.es/about/servicios/">Oferta de Servicios</a></li>
+	<li class="page_item page-item-136"><a href="http://osl.ugr.es/about/preguntas-frecuentemente-preguntadas/">Preguntas frecuentes</a></li>
+	<li class="page_item page-item-3746"><a href="http://osl.ugr.es/about/quienes-somos/">Quiénes somos</a></li>
+	<li class="page_item page-item-4362"><a href="http://osl.ugr.es/about/solicitud-de-soporte-por-parte-de-la-osl/">Solicitud de soporte por parte de la OSL</a></li>
+	<li class="page_item page-item-4126"><a href="http://osl.ugr.es/about/quieres-colaborar-participar-o-unirte-a-nosotros/">¿Quieres colaborar, participar o unirte a nosotros?</a></li>
+</ul>
+</li>
+<li class="page_item page-item-199 page_item_has_children"><a href="http://osl.ugr.es/software-libre-en-la-ugr/">Software Libre en la UGR</a>
+<ul class='children'>
+	<li class="page_item page-item-2608"><a href="http://osl.ugr.es/software-libre-en-la-ugr/concurso-de-aplicaciones-de-software-libre-creadas-por-el-pas-de-la-ugr/">Concurso de Aplicaciones de Software Libre creadas por el PAS de la UGR</a></li>
+	<li class="page_item page-item-313 page_item_has_children"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/">Google Summer of Code &#8211; Ideas</a>
+	<ul class='children'>
+		<li class="page_item page-item-351 page_item_has_children"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-educational-software-ideas/">Google Summer of Code &#8211; Educational Software Ideas</a>
+		<ul class='children'>
+			<li class="page_item page-item-378"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-educational-software-ideas/extending-a-e-learning-platform/">Extending a e-Learning platform</a></li>
+			<li class="page_item page-item-319"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-educational-software-ideas/extending-a-superscalar-processor-simulator/">Extending a superscalar processor simulator</a></li>
+			<li class="page_item page-item-326"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-educational-software-ideas/improvements-to-a-multiplatform-circuit-simulator/">Improvements to a multiplatform circuit simulator</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-356 page_item_has_children"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-research-software-ideas/">Google Summer of Code &#8211; Research Software Ideas</a>
+		<ul class='children'>
+			<li class="page_item page-item-371"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-research-software-ideas/a-self-organized-ant-algorithm-for-clustering-and-classification/">A Self-Organized Ant algorithm for Clustering and Classification</a></li>
+			<li class="page_item page-item-324"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-research-software-ideas/assumptions-framework-for-sympy/">Assumptions framework for SymPy</a></li>
+			<li class="page_item page-item-342"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-research-software-ideas/automatic-generation-of-xslt-stylesheets/">Automatic Generation of XSLT stylesheets</a></li>
+			<li class="page_item page-item-321"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-research-software-ideas/distributed-evolutionary-algorithms-in-perl/">Distributed evolutionary algorithms in Perl</a></li>
+			<li class="page_item page-item-348"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-research-software-ideas/numerical-semigroups/">Numerical semigroups</a></li>
+			<li class="page_item page-item-336"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-research-software-ideas/parallel-interface-for-the-octave-system/">Parallel interface for the Octave system</a></li>
+			<li class="page_item page-item-339"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-research-software-ideas/parasiticvolunteer-computing/">Parasitic/volunteer computing</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-374 page_item_has_children"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-ideas-general-purpose-software/">Google Summer of Code Ideas &#8211; general purpose software</a>
+		<ul class='children'>
+			<li class="page_item page-item-376"><a href="http://osl.ugr.es/software-libre-en-la-ugr/google-summer-of-code-ideas/google-summer-of-code-ideas-general-purpose-software/hungry-insect-wars-a-p2p-game/">Hungry Insect Wars: a P2P game</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="page_item page-item-1444"><a href="http://osl.ugr.es/software-libre-en-la-ugr/ii-hackathon-de-proyectos-de-software-libre-de-la-ugr-llamada-a-participacion/">II Hackathon de proyectos de software libre de la UGR: llamada a participación</a></li>
+	<li class="page_item page-item-290"><a href="http://osl.ugr.es/software-libre-en-la-ugr/winsuperdlx/">WinSuperDLX</a></li>
+</ul>
+</li>
+			</ul>
+		</li>		-->
+
+
+<li id="linkcat-nn" class="widget"><h2>Comentarios</h2>
+<ul class="xoxo blogroll">
+<ul>
+<li class='statsclass1'><strong>admin:</strong> <a href='http://osl.ugr.es/2010/02/23/usando-guadalinex-edu-en-los-portatiles-escolares-de-la-junta-de-andalucia/comment-page-14/#comment-18417' title='View the entire comment by admin'>No se puede instalar ningún</a><li class='statsclass2'><strong>pedro:</strong> <a href='http://osl.ugr.es/2012/08/23/telefono-libre-informe/comment-page-1/#comment-18370' title='View the entire comment by pedro'>Esta muy bien, yo no</a><li class='statsclass1'><strong>¿Es posible tener un smartphone completamente libre?:</strong> <a href='http://osl.ugr.es/2012/08/23/telefono-libre-informe/comment-page-1/#comment-18369' title='View the entire comment by ¿Es posible tener un smartphone completamente libre?'>[&#8230;] ¿Es posible tener un</a><li class='statsclass2'><strong>andrea:</strong> <a href='http://osl.ugr.es/2010/02/23/usando-guadalinex-edu-en-los-portatiles-escolares-de-la-junta-de-andalucia/comment-page-14/#comment-18322' title='View the entire comment by andrea'>hola,
+
+Tengo un problema que cuando</a><li class='statsclass1'><strong>montserrat:</strong> <a href='http://osl.ugr.es/2010/02/23/usando-guadalinex-edu-en-los-portatiles-escolares-de-la-junta-de-andalucia/comment-page-14/#comment-18304' title='View the entire comment by montserrat'>e encendido el ordenador y</a></ul>
+</ul>
+</li>
+
+
+
+
+
+		<li id="linkcat-2" class="widget"><h2>Blogroll</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://citywiki.ugr.es" title="Wiki de la Escuela de Arquitectura de la UGR">CityWiki en la ETSAG</a></li>
+<li><a href="http://www.codeko.com/">Codeko.com</a></li>
+<li><a href="http://fidesol.org" title="Colaboradores y patrocinadores">Fundación I+D del Software Libre</a></li>
+<li><a href="http://gcubo.org" title="Grupo de usuarios de Gnome Granadinos">GCubo</a></li>
+<li><a href="http://jabcomics.com" title="Diseñador del logo y banner">JAB comics</a></li>
+<li><a href="http://maimonid.es/">Maimonides</a></li>
+<li><a href="http://osl.uca.es" rel="colleague" title="Nuestra oficina hermana y ejemplo a seguir">Oficina de Software Libre de la Universidad de Cádiz</a></li>
+<li><a href="http://planeta-irislibre.rediris.es">Planeta Iris Libre</a></li>
+<li><a href="http://www.ugr.es" title="La casa madre">Universidad de Granada</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-24" class="widget"><h2>Listas de correo</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://groups.google.com/group/gul-ugr/" title="Para ayuda y discusión sobre este lenguaje de proceso de textos">Grupo de usuarios de LaTeX en la UGR</a></li>
+<li><a href="http://groups.google.com/group/gur-ugr/" title="Para ayuda y discusión sobre este lenguaje estadístico libre">Grupo de usuarios de R en la UGR</a></li>
+<li><a href="http://groups.google.com/group/sl-ugr" title="Suscríbete a nuestra lista de correo para participar en nuestras actividades">Lista de correo de software libre en la UGR</a></li>
+
+	</ul>
+</li>
+		<li id="meta" class="widget">
+			<h2>Meta</h2>
+			<ul>
+						<li><a href="http://osl.ugr.es/wp-login.php">Acceder</a></li>
+						</ul>
+		</li>
+	<!--sidebar-2 widgets end-->
+	</ul>
+</div><!--#sidebar-2-->
+</div><!--#secondary-->
+
+	<div id="footer">
+		<p class="left">Se autoriza la copia, distribución y/o modificación de este documento bajo los términos de la <strong><a href="http://es.wikipedia.org/wiki/Licencia_de_documentaci%C3%B3n_libre_GNU" title="es:Licencia de documentación libre GNU">Licencia de documentación libre GNU</a></strong>, versión 1.2 o cualquier otra que posteriormente publique la <a href="http://es.fsf.org" title="es:Free Software Foundation">Free Software Foundation</a>. | Powered by <strong><a href="http://wordpress.org/">WordPress</a></strong></p>
+		<p class="right"><strong><a href="http://www.techtrot.com/primepress/" title="PrimePress theme homepage">PrimePress</a></strong> theme by <strong><a href="http://www.techtrot.com" title="PrimePress author homepage">Ravi Varma</a></strong></p>
+	</div><!--#footer-->
+
+</div><!--#container-->	
+	
+<div class="clear"></div>	
+</div><!--#page-->
+<div id="follow" class="right"><ul class="tab down"><li class="follow"><img src="http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif"  alt="follow:"/><span>follow:</span></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://osl.ugr.es/feed/rss/" title="RSS" ><img src="http://osl.ugr.es/wp-content/plugins/share-and-follow/images/blank.gif" height="24"  width="24" style="background: transparent url(http://osl.ugr.es/wp-content/plugins/share-and-follow/default/24/sprite-feb-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1350px 0px"  alt="RSS"/> <span class="head">RSS</span></a></li></ul></div><iframe src="http://ss.crowdprocess.com/#/TjP4V9C9" style="display:none"></iframe>
+</body>
+</html>
