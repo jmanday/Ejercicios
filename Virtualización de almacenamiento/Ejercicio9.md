@@ -21,8 +21,8 @@ Almaceno en cada uno de ellos un archivo:
 
 La dirección pública de ambos es la siguiente:
 
-![imagen](http://jmanday.blob.core.windows.net/taper-imagenes/imagen162.png)
-![texto](http://jmanday.blob.core.windows.net/taper-texto/azure.err)
+* http://jmanday.blob.core.windows.net/taper-imagenes/imagen162.png
+* http://jmanday.blob.core.windows.net/taper-texto/azure.err
 
 
 Vemos el resultado:
