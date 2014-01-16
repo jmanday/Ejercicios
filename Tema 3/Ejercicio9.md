@@ -27,4 +27,5 @@ Explico brevemente las características con las que me he creado mi contendor, e
 --netwotk --> El dispositivo de red a utilizar
 --hvm --> Que utilice la virtualización completa
 --force --> Si exsite el fichero donde se crea la instalación lo sobreescribe
-</pre>
+</pre
+
