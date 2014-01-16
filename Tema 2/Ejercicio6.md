@@ -32,3 +32,4 @@ Le asignamos una contraseña al usuario:
 ![imagen22](https://github.com/jmanday/Imagenes/blob/master/imagen22.png?raw=true)
 
 Por último he cambiado en el fichero de configuración **/home/jaulas/lucid/etc/passwd** lo que se indica en el material de la asignatura para el shell.
+
