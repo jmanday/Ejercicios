@@ -1,9 +1,0 @@
-#!/bin/bash
-
-for (i = 4; i '<' 7; i ++)
-  do
-    git add Ejercicio$i.md
-    git commit -m "subido ejercicio$i"
-  done
-
-git push
