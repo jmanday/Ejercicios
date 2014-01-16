@@ -7,3 +7,4 @@ He listado los blobs del contenedor **taper-texto** en un fichero y lo he subido
 Vemos el resultado:
 
 ![imagen169](https://github.com/jmanday/Imagenes/blob/master/imagen169.png?raw=true)
+
