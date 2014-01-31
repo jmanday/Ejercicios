@@ -155,6 +155,27 @@ Otros objetivos:
 
 
 ###Clase del 13 de diciembre###
-* **[x]** Ser capaces de diseñar una máquina virtual general.
-* **[x]** Recordar los distintos sistemas de ficheros que se pueden usar en Linux y entender las capacidades de cada uno.
+* **[x]** Provisionamiento de recursos para una máquina virtual.
+* **[x]** Entender sistemas de almacenamiento de objetos e instalarlos.
 
+
+###Clase del 16 de diciembre###
+* **[x]** Comprender cómo los conceptos de almacenamiento virtual se trasladan a la nube.
+* **[x]** Aprender a usar el almacenamiento virtual en la nube.
+
+
+###Clase del 20 de diciembre###
+* **[x]** Comenzar la tercera práctica.
+* **[x]** Entender los diferentes componentes de la infraestructura como servicio.
+* **[x]** Aprender a usar máquinas virtuales, localmente y en la nube.
+* **[x]** Comprender las bases físicas de las infraestructuras virtuales.
+
+
+###Clase del 10 de enero###
+* **[x]** Continuar con la tercera práctica.
+
+
+###Clase del 13 de enero###
+* **[x]** Resolver dudas y entregar la tercera práctica.
+* **[ ]** Entender el concepto de sistemas de provisionamiento de máquinas virtuales.
+* **[ ]** Instalar y comenzar a utilizar un sistema de configuración.
