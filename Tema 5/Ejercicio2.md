@@ -10,7 +10,7 @@ Creo el disco duro virtual en formato **qcwo2**:
 ![imagen172](https://github.com/jmanday/Imagenes/blob/master/imagen172.png?raw=true) 
 
 
-Una vez descargada la imagen, la instalamos con **qemu** (para ello he seguido los pasos de este![tutorial](http://hayardillasenlared.blogspot.com.es/2011/06/instalar-damn-small-linux-en-el-disco.html) donde viene muy bien detallado). Muestro algunas imagenes de la instalación:
+Una vez descargada la imagen, la instalamos con **qemu** (para ello he seguido los pasos de este [tutorial](http://hayardillasenlared.blogspot.com.es/2011/06/instalar-damn-small-linux-en-el-disco.html) donde viene muy bien detallado). Muestro algunas imagenes de la instalación:
 
 ![imagen173](https://github.com/jmanday/Imagenes/blob/master/imagen173.png?raw=true) 
 	
