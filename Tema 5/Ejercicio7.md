@@ -14,3 +14,4 @@ Para la instalación de Ubuntu 12.04 en una máquina virtual utilizaré VMware y
 
 ![imagen222](https://github.com/jmanday/Imagenes/blob/master/imagen222.png?raw=true)
 
+
