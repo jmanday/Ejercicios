@@ -34,3 +34,5 @@ sudo chef-solo -c chef/solo.rb
 Compruebo que se han instalado correctamente:
 
 ![imagen231](https://github.com/jmanday/Imagenes/blob/master/imagen231.png?raw=true)
+
+
