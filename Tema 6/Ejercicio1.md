@@ -10,3 +10,4 @@ Realizo los pasos descritos e instalo chef:
 
 ![imagen226](https://github.com/jmanday/Imagenes/blob/master/imagen226.png?raw=true)
 
+
